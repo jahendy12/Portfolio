@@ -1,0 +1,24 @@
+body {
+  font-family: "Roboto Slab";
+  background-color: #01579b;
+}
+
+#app-content {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+#router-content {
+  flex: 1 0 auto;
+}
+
+.icon {
+  font-size: 18px;
+  line-height: 42px;
+  color: #fff;
+  background-color: white;
+  text-align: center;
+}
+
+/*# sourceMappingURL=styles.css.map */
